@@ -5,5 +5,5 @@ Ftp:Server
 <p>cambiar el host opcionalmente</p>
 <br>
 </br>
-<img href="Ejemp.jpg">
+<img src="Ejemp.jpg">
 </div>
